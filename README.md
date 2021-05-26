@@ -22,6 +22,9 @@ There are 3 jupyter notebooks which are named as **CUSTOMERS**,**ADMIN** and **A
 
 
 ** Incase the jupyter noteboos are not loading on your screen, please visit the follwoing alternative links to access the code**
+
 **ADMIN CODE LINK**  https://nbviewer.jupyter.org/github/abrazlaskar/Loan-Management-System/blob/main/ADMIN.ipynb
+
 **AGENT CODE LINK**    https://nbviewer.jupyter.org/github/abrazlaskar/Loan-Management-System/blob/main/AGENT.ipynb
+
 **CUSTOMER CODE LINK**  https://nbviewer.jupyter.org/github/abrazlaskar/Loan-Management-System/blob/main/CUSTOMER.ipynb
