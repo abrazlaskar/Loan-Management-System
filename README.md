@@ -21,5 +21,7 @@ This role is assigned to those who work at the bank with the primary responsibil
 There are 3 jupyter notebooks which are named as **CUSTOMERS**,**ADMIN** and **AGENT**. Each notebook consists of Python code which allows for executing actions assigned to each user role. Every piece of information is recorded and added to a separate SQL database. Customer details can be added, removed and updated according to user- defined actions.
 
 
-
-
+** Incase the jupyter noteboos are not loading on your screen, please visit the follwoing alternative links to access the code**
+**ADMIN CODE LINK**  https://nbviewer.jupyter.org/github/abrazlaskar/Loan-Management-System/blob/main/ADMIN.ipynb
+**AGENT CODE LINK**    https://nbviewer.jupyter.org/github/abrazlaskar/Loan-Management-System/blob/main/AGENT.ipynb
+**CUSTOMER CODE LINK**  https://nbviewer.jupyter.org/github/abrazlaskar/Loan-Management-System/blob/main/CUSTOMER.ipynb
