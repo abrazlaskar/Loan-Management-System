@@ -7,7 +7,7 @@ This project is a basic loan management system which consists operations for "CU
 - THey are allowed to execute a single action; they can see the details of their own loans using their unique Loan Id assigned to them.
 
 2) **ADMIN**
- This role is assigned to those who work at the bank and are in charge of the follwoing tasks:
+ This role is assigned to those who work at the bank and are in charge of the following tasks:
 - List, View and Edit All Customer records using filters
 - Approval of Loan Request made by Customer
 
@@ -21,7 +21,7 @@ This role is assigned to those who work at the bank with the primary responsibil
 There are 3 jupyter notebooks which are named as **CUSTOMERS**,**ADMIN** and **AGENT**. Each notebook consists of Python code which allows for executing actions assigned to each user role. Every piece of information is recorded and added to a separate SQL database. Customer details can be added, removed and updated according to user- defined actions.
 
 
-** Incase the jupyter noteboos are not loading on your screen, please visit the follwoing alternative links to access the code**
+** Incase the jupyter notebooks are not loading on your screen, please visit the follwoing alternative links to access the code**
 
 **ADMIN CODE LINK**  https://nbviewer.jupyter.org/github/abrazlaskar/Loan-Management-System/blob/main/ADMIN.ipynb
 
